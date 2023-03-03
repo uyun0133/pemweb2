@@ -35,8 +35,8 @@ $ar_nilai = [$mahasiswa1, $mahasiswa2, $mahasiswa3];
 </head>
 <body>
     <div class="container">
-        <h2>Daftar Nilai Mahasiswa</h2>
-        <table class="table table-stripped">
+        <h2 style="text-align: center;">Daftar Nilai Mahasiswa</h2>
+        <table class="table table-success table-striped">
             <tr>
                 <th>NO</th>
                 <th>NIM</th>
